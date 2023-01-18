@@ -7,7 +7,7 @@ Seminar3 09:00 21/2
 Seminar4 09:00 27/2
 
 ## PROJEKT:
-Sprint 1 -Report Submission 10/2
+Sprint 1 -Report Submission 3/2
 Sprint 2 -Report Submission 24/2
 Sprint 3 -Report Submission 17/3
 
